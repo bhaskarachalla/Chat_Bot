@@ -1,6 +1,6 @@
 ---
 
-# Chatbot Conversation Model - README
+# Chatbot Conversation Model
 
 ## Project Overview
 
@@ -11,7 +11,7 @@ This project aims to fine-tune a transformer-based conversational AI model capab
 - **Transformer Model Architecture**: Built on a pre-trained transformer model, fine-tuned specifically for sequence classification and conversational tasks.
 - **Conversational Dataset**: Utilizes real-world conversational data, enabling the model to learn from various dialog scenarios.
 - **Robust Evaluation**: The model’s performance is rigorously assessed using evaluation metrics such as accuracy, ensuring that it can generalize well to unseen conversations.
-- **Scalability**: The model is fine-tuned with the ability to scale across different chatbot or communication platforms, supporting seamless integration into production environments.
+- **Scalability**: The model is fine-tuned with the ability to scale across different chatbot or communication platforms, but for now it is just for `educational purposes.`
 
 ---
 
